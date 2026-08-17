@@ -1,4 +1,4 @@
-<img width="254" height="254" alt="9cb27459-d0fe-4874-a46d-d2f70148f01e" src="https://github.com/user-attachments/assets/27fa71cb-7ab8-43b7-a007-aaaef002dd42" />
+<img width="220" height="220" alt="9cb27459-d0fe-4874-a46d-d2f70148f01e" src="https://github.com/user-attachments/assets/27fa71cb-7ab8-43b7-a007-aaaef002dd42" />
 
 A text editor. Terminal only. No plugins, no bloat, no electron.
 

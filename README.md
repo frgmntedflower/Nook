@@ -27,9 +27,6 @@ else comes after that works and works well.
 ```
 gcc nook.c -o nook -Wall -Wextra -O2
 ```
-
-No libraries. No package manager. No excuses.
-
 ## Run
 
 ```
@@ -45,7 +42,7 @@ No libraries. No package manager. No excuses.
 | Ctrl+Q         | Quit            |
 
 More coming. Fast navigation, the command palette, and search-everywhere
-land once the core is solid. Not before.
+land once the core is solid.
 
 ## License
 

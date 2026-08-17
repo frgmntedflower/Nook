@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/nook.o",
+      "src/nook.c"
+    ],
+    "directory": "/home/lu/dev/Nook",
+    "file": "/home/lu/dev/Nook/src/nook.c",
+    "output": "/home/lu/dev/Nook/build/nook.o"
+  }
+]

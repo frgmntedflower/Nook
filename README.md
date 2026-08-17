@@ -1,6 +1,6 @@
 # nook
 
-A text editor. Yours. Terminal only. No plugins, no bloat, no electron.
+A text editor. Terminal only. No plugins, no bloat, no electron.
 
 ## Why
 

@@ -1,5 +1,4 @@
 <img width="220" height="220" alt="9cb27459-d0fe-4874-a46d-d2f70148f01e" src="https://github.com/user-attachments/assets/c0d2d34f-fb87-4854-8ac8-0e3de78b6844" />
-(nook)
 
 Atext editor. Terminal only. No plugins, no bloat, no electron.
 

@@ -8,19 +8,11 @@ Every editor either does too much or gets in your way. nano is simple but
 dumb. vim is powerful but you have to remember what mode you're in. sublime
 is fast but it's not yours and it's not even open.
 
-nook is nano's brain with better legs. Always insert mode, so you never
-have to think about what mode you're in, you just type. But it moves fast:
-word jumps, block jumps, jump-to-line, all without ever leaving insert.
-On top of that: a command palette, and instant full-text search across
-your whole project. Two keystrokes and you're at the line you wanted.
-
-That's it. That's the whole idea.
-
 ## Philosophy
 
 - No dependencies unless there is no other way.
 - If you can write it in an afternoon, write it in an afternoon.
-- The terminal is not a limitation. It's the whole point.
+- The terminal is not a limitation.
 - Fast beats fancy. A redraw should never be visible.
 - If a feature needs a manual, it's the wrong feature.
 - Read the source. It should be short enough to actually read.

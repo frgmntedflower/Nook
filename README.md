@@ -1,4 +1,4 @@
-<img width="220" height="220" alt="9cb27459-d0fe-4874-a46d-d2f70148f01e" src="https://github.com/user-attachments/assets/c0d2d34f-fb87-4854-8ac8-0e3de78b6844" />
+<img width="220" height="220" alt="4efd157a-25af-4cc7-b902-4e8464f0f589" src="https://github.com/user-attachments/assets/86a5e081-51f3-4d03-be7c-7a702d2e5d6a" />
 
 A simple text editor. 
 

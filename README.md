@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="nook logo" src="https://github.com/user-attachments/assets/02e90d7b-a4c4-4832-b7da-a15f79833686" />
+<img width="220" height="220" alt="nook logo" src="https://github.com/user-attachments/assets/02e90d7b-a4c4-4832-b7da-a15f79833686" />
 
 A text editor. Terminal only. No plugins, no bloat, no electron.
 

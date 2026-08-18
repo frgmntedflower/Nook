@@ -9,7 +9,6 @@ A simple text editor. Terminal only. No plugins, no bloat, no electron.
 
 - No dependencies unless there is no other way.
 - If you can write it in an afternoon, write it in an afternoon.
-- The terminal is not a limitation.
 - Fast beats fancy. A redraw should never be visible.
 - If a feature needs a manual, it's the wrong feature.
 - Read the source. It should be short enough to actually read.
